@@ -29,7 +29,7 @@ a {
 .smartphone {
     width: 370px;
     height: 650px;
-    background-image: url("/img/instagram-celular.png");
+    background-image: url("./img/instagram-celular.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
