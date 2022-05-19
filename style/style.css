@@ -9,7 +9,7 @@ a {
 }
 
 .container {
-    margin-top: 30px;
+    margin-top: 20px;
     display: flex;
     flex-flow: row wrap;
     align-items: center;
@@ -223,8 +223,7 @@ footer {
 }
 
 .copy form select {
-    color: #808080;
-    -webkit-border-radius: 0;
+      color: #808080;
       border: 0;
       outline: 1px solid #fff;
       outline-offset: -1px;
