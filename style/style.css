@@ -29,7 +29,7 @@ a {
 .smartphone {
     width: 370px;
     height: 650px;
-    background-image: url("https://uploads.codesandbox.io/uploads/user/da772a34-2ff3-4a6c-bbbe-b02af5176f72/-bd5-Iphone.png");
+    background-image: url("./img/instagram-celular.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
